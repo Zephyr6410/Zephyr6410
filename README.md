@@ -91,6 +91,10 @@ fn main() {
           <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
           <br>Laravel
         </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+            <br>C++
+        </td>
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
           <br>WordPress
