@@ -9,11 +9,11 @@
 ## Favorite Saying 👍
 
 ```rust
-/// Zephyr610 — Full-Stack, Web3, Blockchain, AI Developer
-struct Zephyr610;
+/// Zephyr — Full-Stack, Web3 Developer.
+struct Zephyr;
 
-impl Zephyr610 {
-    /// Return Zephyr610's motto
+impl Zephyr6410 {
+    /// Return Zephyr6410's motto
     fn motto(&self) -> &str {
         "The finest programmers create not for profit or fame, but for the simple joy found in every line of code.
          Building across the stack — from smart contracts and decentralized systems."
@@ -21,9 +21,9 @@ impl Zephyr610 {
 }
 
 fn main() {
-    let zephyr = Zephyr610;
+    let zephyr = Zephyr6410;
 
-    println!("Zephyr610 - {}", zephyr.motto());
+    println!("Zephyr6410 - {}", zephyr.motto());
 }
 
 ```
