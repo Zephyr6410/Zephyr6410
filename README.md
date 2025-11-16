@@ -4,9 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=Fullstack+Engineer;Web3+Developer;Cyber+Security;Robots_(WIP)" alt="Typing SVG" />
 </div>
 
-<div align="center">
-    <img width="1500" height="500" alt="image" src="../Zephyr6410/9f287788-2865-4de6-8f46-801a1ef95d84.jfif" />
-</div>
+
 
 ## Favorite Saying 👍
 
@@ -101,8 +99,9 @@ fn main() {
             <br>C++
         </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-          <br>WordPress
+            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+            <br>C++
         </td>
+        
     </tr>
 </table>
