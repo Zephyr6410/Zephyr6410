@@ -1,39 +1,99 @@
-### Languages & Tools
+# 👋 Welcome to my github page! <br />
 
-> 💡 **Tip:** *You can see the skill name by hovering your mouse over the image.*
+I am a diligent software engineer and avid open source developer with over 10 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" title="C" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=rust" title="Rust" />
-  <img src="https://skillicons.dev/icons?i=solidity" title="Solidity" />
-  <img src="https://skillicons.dev/icons?i=haskell" title="Haskell" />
-  <img src="https://skillicons.dev/icons?i=threejs" title="Three.js" />
-  <img src="https://skillicons.dev/icons?i=go" title="Go" />
-  <img src="https://skillicons.dev/icons?i=remix" title="Remix" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=py" title="Python" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt.js" />
-  <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=gcp" title="GCP" />
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
-  <img src="https://skillicons.dev/icons?i=ai" title="AI" />
-  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" />
-  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />
-</p>
+
+## Favorite Saying 👍
+
+```rust
+/// Texora's motto
+struct LinusTorvalds;
+
+impl LinusTorvalds {
+  /// Return Linus Torvalds quote
+  fn said(&self) -> &str {
+    "Most good programmers do programming not because they expect to get paid /
+     or get adulation by the public, but because it is fun to program."
+  }
+}
+
+fn main() {
+  let linus_torvalds = LinusTorvalds;
+
+  println!("Linus Torvalds - {}", linus_torvalds.said());
+}
+```
+
+## ⚡ My Skills
+<br />
+
+<table align="center">
+  <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
+        <br>Javascript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
+        <br>Typescript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+        <br>Vue
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+        <br>Nuxt.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+        <br>Angular
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+        <br>Three.js
+      </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+            <br>Rust
+          </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+          <br>Python
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
+            <br>C#
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+            <br>Solidity
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
+            <br>Go
+        </td>
+        <td align="center" width="90">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+          <br>Django
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+          <br>Laravel
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+          <br>WordPress
+        </td>
+    </tr>
+</table>
