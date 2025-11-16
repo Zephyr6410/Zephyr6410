@@ -65,12 +65,8 @@ fn main() {
         <br>Three.js
       </td>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="Three.js" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="Mysql" />
         <br>Mysql
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="45" height="45" alt="Three.js" />
-        <br>Node.js
       </td>
     </tr>
     <tr>
@@ -79,23 +75,19 @@ fn main() {
             <br>Rust
           </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
             <br>Python
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
-            <br>C#
         </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
             <br>Solidity
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
+            <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
             <br>Go
         </td>
         <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" />
           <br>Django
         </td>
         <td align="center" width="90">
@@ -103,15 +95,15 @@ fn main() {
           <br>Laravel
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
             <br>C++
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-            <br>C++
+            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+            <br>C#
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
             <br>AWS
         </td>
     </tr>
