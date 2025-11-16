@@ -9,22 +9,23 @@
 ## Favorite Saying 👍
 
 ```rust
-/// Texora's motto
-struct LinusTorvalds;
+/// Zephyr610 — Full-Stack, Web3, Blockchain, AI Developer
+struct Zephyr610;
 
-impl LinusTorvalds {
-  /// Return Linus Torvalds quote
-  fn said(&self) -> &str {
-    "Most good programmers do programming not because they expect to get paid /
-     or get adulation by the public, but because it is fun to program."
-  }
+impl Zephyr610 {
+    /// Return Zephyr610's motto
+    fn motto(&self) -> &str {
+        "The finest programmers create not for profit or fame, but for the simple joy found in every line of code.
+         Building across the stack — from smart contracts and decentralized systems."
+    }
 }
 
 fn main() {
-  let linus_torvalds = LinusTorvalds;
+    let zephyr = Zephyr610;
 
-  println!("Linus Torvalds - {}", linus_torvalds.said());
+    println!("Zephyr610 - {}", zephyr.motto());
 }
+
 ```
 
 ## ⚡ My Skills
