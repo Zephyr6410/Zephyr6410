@@ -69,8 +69,9 @@ fn main() {
             <br>Rust
           </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-          <br>Python
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <br>Python
+        </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
             <br>C#
@@ -91,7 +92,7 @@ fn main() {
           <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
           <br>Laravel
         </td>
-        <td align="center" width="96">
+        <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
             <br>C++
         </td>
