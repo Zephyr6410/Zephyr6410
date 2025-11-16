@@ -32,8 +32,8 @@ fn main() {
 
 <table align="center">
   <tr>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="50" height="50" />
         <br>Javascript
       </td>
       <td align="center" width="90">
